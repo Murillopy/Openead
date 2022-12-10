@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+    text-align:none;
+    text-decoration:none;
+}
+
+header{
+    background-color:rgb(14, 14, 14);
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+main{
+    background-color:rgb(126, 67, 163);
+    color:white;
+}
